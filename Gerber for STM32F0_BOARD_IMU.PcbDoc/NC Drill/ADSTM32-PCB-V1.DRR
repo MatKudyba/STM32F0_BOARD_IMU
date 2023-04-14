@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ADSTM32-PCB-V1.PcbDoc   4/14/2023  9:40:56 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ADSTM32-PCB-V1-RoundHoles.TXT
+ASCII SlotHoles File : ADSTM32-PCB-V1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             42        PTH        6.65inch (168.91mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.66inch (42.11mm)
+T3      87mil (2.2mm)                                             Round             4         PTH        3.24inch (82.18mm)
+T4      42mil (1.067mm)                                           Round             3         NPTH       0.28inch (7.21mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              53
+
+Total Processing Time (hh:mm:ss) : 00:00:00

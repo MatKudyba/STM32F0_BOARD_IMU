@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: c:\programdata\altium\vaultserverdata\arkservice\1827be51-11b0-4f8d-a0d9-6b081c10a495\s\e\ADSTM32-PCB-V1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=adstm32-pcb-v1-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=adstm32-pcb-v1-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

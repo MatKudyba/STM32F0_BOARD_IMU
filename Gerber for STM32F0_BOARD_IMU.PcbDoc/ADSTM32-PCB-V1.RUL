@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: c:\programdata\altium\vaultserverdata\arkservice\1827be51-11b0-4f8d-a0d9-6b081c10a495\s\e\ADSTM32-PCB-V1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
